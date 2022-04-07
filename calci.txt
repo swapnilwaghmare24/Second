@@ -1,6 +1,6 @@
 Welcome to calci
 
-addition = a+b
+addition = a+b+c
 
 
 substraction = a-b
