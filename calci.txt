@@ -1,1 +1,3 @@
 Welcome to calci
+
+addition = a+b
